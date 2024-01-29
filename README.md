@@ -2,7 +2,7 @@
 
 ## Overview
 The Caesar's Cipher is a simple and historic encryption technique named after Julius Caesar, who used it to encode military secrets. This Swift program demonstrates how to encrypt a message by shifting each letter three places to the right in the alphabet.
-![Caesar's Cipher](images/photo1.png)
+![Caesar's Cipher](images/photo1.svg)
 
 
 ## How it Works
@@ -10,7 +10,7 @@ The Caesar's Cipher is a simple and historic encryption technique named after Ju
 2. **Shift by Three:** Take each letter in the input message and shift it three places to the right in the alphabet.
 3. **Encryption:** The result is the encrypted message.
 
-   ![Caesar's Cipher_Shift](images/photo2.png)
+   ![Caesar's Cipher_Shift](images/photo2.svg)
 
 ## Usage
 1. Open the `CaesarCipher.swift` file in a Swift-compatible environment.
